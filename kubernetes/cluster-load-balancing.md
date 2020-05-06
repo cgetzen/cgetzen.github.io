@@ -6,7 +6,7 @@ In GKE, you are able to [register services with extant load-balancers](https://g
 
 This is a really great feature to have, because it allows you to assign services across multiple clusters to the same LB -- adding redundancy at the cluster level and allowing you to add or remove clusters easily.
 
-While we can replicate this on AWS, the mechanics aren't as seamlessly and automated. Here's how.
+While we can replicate this on AWS, the mechanics aren't as seamless and automated. Here's how.
 
 General Process:
 
