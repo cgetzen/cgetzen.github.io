@@ -10,8 +10,9 @@ While we can replicate this on AWS, the mechanics aren't as seamlessly and autom
 
 General Process:
 
-- Create a service of type NodePort or LoadBalancer, and specify a nodePort in the svc definition.
-- Create an LB (terraform, console, CF), and ensure nodePort matches targetGroup port
+- Create a service of type NodePort (or LoadBalancer) and specify a nodePort in the svc definition in each cluster.
+- Create an LB (terraform, console, CF), and ensure nodePort matches targetGroup port.
+- Attach the clusters ASG to the targetGroup.
 
 Here's an example
 
