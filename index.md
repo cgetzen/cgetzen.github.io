@@ -2,7 +2,10 @@
 
 I'm a Senior SRE at Procore. I hope you find this helpful.
 
-### Topics
+### Non-Technical Topics
+- [Working with me](working-with-me.md)
+
+### Technical Topics
 
 #### Terraform (at scale)
 - [Using remote state as a cache](terraform/cache-state.md)
