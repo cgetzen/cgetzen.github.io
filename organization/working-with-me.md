@@ -18,7 +18,7 @@ I love learning about, and from, others. I'm also a moderately introverted perso
 
 #### 1-on-1's with my manager
 
-I thrive on honest, constructive feedback. Feedback can be negative or positive, and I don't like the "feedback sandwich". I like to focus the conversation on technical decisions, career development, org-level processes, and where the industry is headed.
+I thrive on honest, constructive feedback. Feedback can be negative or positive, and I dislike the "feedback sandwich". I like to focus the conversation on technical decisions, career development, org-level processes, and where the industry is headed.
 
 #### Motivators
 
@@ -30,7 +30,7 @@ I feel motivated when the project:
 
 I feel demotivated when the project:
 - has external dependencies
-- guesses instead of experiments and measures 
+- guesses instead of experiments and measures
 - is political
 
 #### Hours
