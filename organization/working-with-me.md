@@ -1,6 +1,6 @@
 # Working with Me
 
-In the spirit of openness and clarity, I'd like to share how I like to work with others and what my goals are.
+In the spirit of openness, I'd like to share how I like to work with others and what my goals are.
 This is based off of [Amy Nguyen's](https://amy.dev/?p=979) post.
 
 #### 2020 Goals
